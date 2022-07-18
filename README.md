@@ -1,8 +1,12 @@
 # Image Gallery application :camera_flash:
 
-## Image gallery application consumed api "www.flickr.com"
 
-## Contains: Two views Images search view and Images dispaly view.
+
+## Contains 
+    Two views:
+    Images search view.
+    Images dispaly view.
+    consumed api "www.flickr.com"
 
 ## View 1
 ![Simulator Screen Shot - iPhone 13 Pro Max - 2022-07-18 at 11 22 46](https://user-images.githubusercontent.com/12441373/179493459-9ad2f63d-6639-4714-b810-908941faa38e.png)

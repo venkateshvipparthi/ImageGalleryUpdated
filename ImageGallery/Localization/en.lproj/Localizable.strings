@@ -1,0 +1,14 @@
+/* 
+  Localizable.strings
+  ImageGallery
+
+  Created by Venkat on 18/07/22.
+  
+*/
+
+// Titles
+"search" = "Search";
+
+//Errors
+
+"networkError" = "Something went wrong pls try again!";
